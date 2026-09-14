@@ -1,0 +1,18 @@
+[
+  {
+    "id": "plushie_slime",
+    "type": "GENERIC",
+    "symbol": ",",
+    "color": "cyan",
+    "name": { "str": "slime plushie" },
+    "description": "Far from the slimes you're used to, this plushie looks more like a giant, slightly flattened droplet of light blue gelatin. A perfect expression of complete relaxation and a cute pair of blushing dots adorn its jiggly royal figure. It takes only a glance to hear the words, \"I'm not a bad slime...!\"",
+    "price": "20 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "800 g",
+    "volume": "1 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+    }
+  }
