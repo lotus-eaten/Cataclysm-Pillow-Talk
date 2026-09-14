@@ -7,3 +7,5 @@
     "description": "Further bodypillow variety and plushies for Cataclysm. Interactable."
     "category": "content",
     "dependencies": [ "lotus-inspectmod" ]
+  }
+]
