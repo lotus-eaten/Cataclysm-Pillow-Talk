@@ -1,11 +1,11 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "pillowtalk"
+    "id": "pillowtalk",
     "name": "<color_pink>Pillow Talk</color>",
     "authors": [ "lotus-eaten" ],
-    "description": "Further bodypillow variety and plushies for Cataclysm. Interactable."
+    "description": "Further bodypillow variety and plushies for Cataclysm. Interactable.",
     "category": "content",
-    "dependencies": [ "lotus-inspectmod" ]
+    "dependencies": [ "inspectmod" ]
   }
 ]
