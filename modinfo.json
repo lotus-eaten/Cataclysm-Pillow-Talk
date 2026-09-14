@@ -6,6 +6,7 @@
     "authors": [ "lotus-eaten" ],
     "description": "Further bodypillow variety and plushies for Cataclysm. Interactable.",
     "category": "content",
-    "dependencies": [ "inspectmod" ]
+    "dependencies": [ "inspectmod" ],
+    "lua_api_version": 2
   }
 ]
