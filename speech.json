@@ -50,12 +50,6 @@
   {
     "type": "speech",
     "speaker": [ "plushie_chibi" ],
-    "sound": "I guess you could say I'm... in bread.",
-    "volume": 10
-  },
-  {
-    "type": "speech",
-    "speaker": [ "plushie_chibi" ],
     "sound": "CAN I SEX HIM!!?",
     "volume": 20
   },
@@ -70,5 +64,60 @@
     "speaker": [ "plushie_chibi" ],
     "sound": "SHUT UP!!!",
     "volume": 20
-  }
+  },
+
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Mastah!",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Give 'em hell!",
+    "volume": 20
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Away with you! Out of my sight!!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "These people are human beings!",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "You seem to have grown a moustache, mastah.",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Thank you for everything you did for me! It was a pleasure!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Makes ya think, doesn't it? If there are any normal people in this bloody place?",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Bernadotte...",
+    "volume": 5
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "They're more like zombie pumpkins.",
+    "volume": 10
+  },
 ]
