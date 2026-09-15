@@ -1,4 +1,5 @@
- {
+ [
+  {
     "id": "vox_plushie_chibi",
     "type": "TOOL",
     "symbol": "|",
@@ -32,3 +33,4 @@
     ],
     "magazine_well": "250 ml"
   },
+ ]
