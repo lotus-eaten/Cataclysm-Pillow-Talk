@@ -10,7 +10,9 @@
       [ "plushie_slime", 5 ],
       [ "sword_plushie", 3],
 
-      [ "vox_plushie_chibi", 1 ]
+      [ "vox_plushie_chibi", 1 ],
+      [ "vox_plushie_policegirl", 3 ],
+      [ "vox_plushie_policegirl_alt", 1],
     ]
   }
 ]
