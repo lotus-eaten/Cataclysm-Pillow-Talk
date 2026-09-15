@@ -18,6 +18,7 @@
     "flags": [ "SHEATH_SWORD" ],
     "techniques": [ "WBLOCK_1" ],
     "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 2 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
   },
   {
     "result": "sword_slumber",
