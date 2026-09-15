@@ -138,12 +138,6 @@
   {
     "type": "speech",
     "speaker": [ "vox_plushie_policegirl_alt" ],
-    "sound": "There! I took the fucking shot!",
-    "volume": 10
-  },
-  {
-    "type": "speech",
-    "speaker": [ "vox_plushie_policegirl_alt" ],
     "sound": "She's dead! There's blood everywhere!!",
     "volume": 15
   },
