@@ -1,11 +1,79 @@
  [
   {
-    "id": "vox_plushie_chibi",
+    "id": "vox_plushie_pink",
     "type": "TOOL",
     "symbol": "|",
     "color": "pink",
     "name": { "str": "absurdly pink talking plush" },
-    "description": "Not even a moment has passed since you laid eyes upon it and you can already feel your hand curling tightly around its throat. Far from noble—this is a 9-inch standing plushie of a blindingly pink little caricature, one eye stuck looking at the nethersphere and the other stuck looking at the stratos. You would do well to keep it far from the sorceror king of Testudines.",
+    "description": "Far from noble—this is a 9-inch standing plushie of a blindingly pink little caricature, one eye stuck looking at the nethersphere and the other stuck looking at the stratos. Not even a moment has passed since you laid eyes upon it and you can already feel your hand curling tightly around its throat. Do not bring it near the Testudine King.",
+    "price": "20 USD",
+    "material": [ "cotton" ],
+    "weight": "300 g",
+    "volume": "1 L",
+    "to_hit": -2,
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "ammo": [ "battery" ],
+    "charges_per_use": 1,
+    "turns_per_charge": 20,
+    "use_action": [ "DOLLCHAT" ],
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_minus_disposable_cell",
+          "light_disposable_cell",
+          "light_minus_battery_cell",
+          "light_battery_cell",
+          "light_plus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell"
+        ]
+      ]
+    ],
+    "magazine_well": "250 ml"
+  },
+   {
+    "id": "vox_plushie_policegirl",
+    "type": "TOOL",
+    "symbol": "|",
+    "color": "pink",
+    "name": { "str": "police girl talking plush" },
+    "description": "",
+    "price": "20 USD",
+    "material": [ "cotton" ],
+    "weight": "300 g",
+    "volume": "1 L",
+    "to_hit": -2,
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "ammo": [ "battery" ],
+    "charges_per_use": 1,
+    "turns_per_charge": 20,
+    "use_action": [ "DOLLCHAT" ],
+    "magazines": [
+      [
+        "battery",
+        [
+          "light_minus_disposable_cell",
+          "light_disposable_cell",
+          "light_minus_battery_cell",
+          "light_battery_cell",
+          "light_plus_battery_cell",
+          "light_atomic_battery_cell",
+          "light_minus_atomic_battery_cell"
+        ]
+      ]
+    ],
+    "magazine_well": "250 ml"
+  },
+  {
+    "id": "vox_plushie_policegirl_alt",
+    "type": "TOOL",
+    "symbol": "|",
+    "color": "pink",
+    "name": { "str": "police girl talking plush" },
+    "description": "A rather cute plush .",
     "price": "20 USD",
     "material": [ "cotton" ],
     "weight": "300 g",
