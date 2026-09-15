@@ -27,8 +27,10 @@
     "material": [ "cotton" ],
     "weight": "250 g",
     "volume": "1250 ml",
-    "category": "scrap_fabric",
-    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "category": "weapons",
+    "weapon_category": [ "1H_SWORDS" ],
+    "flags": [ "DURABLE_MELEE" ],
+    "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 3 ] ],
     "use_action": [ "INSPECT_ITEM" ]
   },
 
