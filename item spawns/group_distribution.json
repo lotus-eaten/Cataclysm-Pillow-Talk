@@ -1,0 +1,9 @@
+[
+  {
+    "type": "item_group",
+    "id": "bedroom",
+    "subtype": "distribution",
+    "entries": [
+      { "group": "body_pillows", "prob": 2 },
+      }
+]
