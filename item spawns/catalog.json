@@ -1,0 +1,10 @@
+[
+  {
+    "id": "body_pillows",
+    "type": "item_group",
+    "items": [
+      [ "bodypillow_slime", 30 ],
+      [ "bodypillow_policegirl", 30]
+    ]
+  }
+]
