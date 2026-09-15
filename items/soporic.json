@@ -87,38 +87,4 @@
     "category": "scrap_fabric",
     "qualities": [ [ "SLEEP_AID", 4 ] ]
   },
-
-
-
-
-  
-    {
-    "id": "sword_slumber",
-    "type": "GENERIC",
-    "category": "weapons",
-    "weapon_category": [ "1H_SWORDS" ],
-    "symbol": "!",
-    "color": "light_gray",
-    "name": { "str": "slumber sword" },
-    "description": "Behold! Though it may appear innocent at a glance, this is a magical tool that grants you the ability to bring an impromptu slumber party to any room you walk into. Alas, it is no longer as comfortable to rest your head onto in this form.",
-    "price": "10 USD",
-    "price_postapoc": "1 USD",
-    "material": [ "cotton", "wood" ],
-    "weight": "1200 g",
-    "volume": "1500 ml",
-    "bashing": 5,
-    "to_hit": 1,
-    "flags": [ "SHEATH_SWORD" ],
-    "techniques": [ "WBLOCK_1" ],
-    "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 2 ] ],
-  },
-  {
-    "result": "sword_slumber",
-    "type": "uncraft",
-    "skill_used": "fabrication",
-    "difficulty": 1,
-    "time": "1m",
-    "components": [ [ [ "sword_plushie", 1 ] ], [ [ "sword_wood", 1 ] ] ],
-    "flags": [ "BLIND_EASY" ],
-  }
 ]
