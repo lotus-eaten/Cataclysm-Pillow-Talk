@@ -4,7 +4,7 @@
     "id": "bedroom",
     "subtype": "distribution",
     "entries": [
-      { "group": "body_pillows", "prob": 2 }
+      { "group": "huggables", "prob": 2 }
     ]
   },
   {
@@ -12,7 +12,7 @@
     "id": "bed",
     "subtype": "distribution",
     "entries": [
-      {"group": "bodypillows", "prob": 2 }
+      {"group": "huggables", "prob": 2 }
     ]
   }
 ]
