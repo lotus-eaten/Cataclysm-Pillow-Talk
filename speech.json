@@ -120,4 +120,10 @@
     "sound": "They're more like zombie pumpkins.",
     "volume": 10
   },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl" ],
+    "sound": "Well that's alright, cause I've never actually used real silverware before anyway!",
+    "volume": 10
+  },
 ]
