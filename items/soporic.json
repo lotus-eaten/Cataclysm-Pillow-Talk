@@ -35,19 +35,85 @@
 
   
   {
-    "id": "bodypillow_rimuru",
+    "id": "bodypillow_slime",
     "type": "GENERIC",
     "symbol": "[",
     "color": "cyan",
     "name": { "str": "slime body pillow" },
-    "description": "A big, body-sized pillow with a print of a blue-eyed, golden-haired anime girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing hiding the fact that this person has neither sets of tools equipped.",
+    "description": "A big, body-sized pillow with a print of a golden-eyed, light blue-haired anime girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing to hide the fact that neither sets of \"tools\" are \"equipped\".",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
-    "weight": "774g",
-    "volume": "1750 ml",
+    "weight": "1750g",
+    "volume": "50 L",
     "category": "scrap_fabric",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
     "use_action": [ "INSPECT_ITEM" ]
-  }
+  },
+  {
+    "id": "bodypillow_policegirl",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "yellow",
+    "name": { "str": "police girl body pillow" },
+    "description": "A big, body-sized pillow with a print of a rather well-developed blue-eyed and blonde-haired anime girl wearing a foreign-styled yellow police uniform, complete with a pencil skirt and white thigh highs. On the back, the same girl's eyes and uniform have both turned blood-red, her mouth open and tongue out ready to receieve... something. Blood... probably.".
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "2100g",
+    "volume": "60 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },
+    
+  
+    {
+    "id": "bodypillow_janitor",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "dark_gray",
+    "name": { "str": "shabby janitor body pillow" },
+    "description": "A big, body-sized pillow with a print of a... a janitor. He's an older fella, and judging by the magazine in his hand, he doesn't seem very reputable. ...Are you even want to see what's on the back?",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "2100g",
+    "volume": "60 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },
+  {
+    "id": "bodypillow_testudine",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "dark_gray",
+    "name": { "str": "testudine sorceror king body pillow" },
+    "description": "A profoundly large pillow with a print of a rather dashing queen dressed in black and seated upon a cruel black throne with her legs crossed. She has blonde hair, blue eyes, a spiked reptilian tail and shell, and horns, yet on the back she's-ohmigod",
+    "price": "120 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "4250g",
+    "volume": "85 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },
+  {
+    "id": "bodypillow_snake",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "dark_gray",
+    "name": { "str": "shabby janitor body pillow" },
+    "description": "A big, body-sized pillow with a print of a... a janitor. He's an older fella, and judging by the magazine in his hand, he doesn't seem very reputable. ...Are you even want to see what's on the back?",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "2100g",
+    "volume": "60 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },
 ]
