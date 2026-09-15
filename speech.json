@@ -66,6 +66,7 @@
     "volume": 20
   },
 
+  
   {
     "type": "speech",
     "speaker": [ "vox_plushie_policegirl" ],
@@ -125,5 +126,104 @@
     "speaker": [ "vox_plushie_policegirl" ],
     "sound": "Well that's alright, cause I've never actually used real silverware before anyway!",
     "volume": 10
+  },
+
+  
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "There! I took the fucking shot!",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "There! I took the fucking shot!",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "She's dead! There's blood everywhere!!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "She's dead! There's blood everywhere!!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "Can't be that much fun.",
+    "volume": 5
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "Oh fuck the hell yes...~",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "Oh wow. Almost like I'm a POLICE GIRL or something, huh?",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "What's a blood rage? And why can't I remember anything?",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "BITCHES LOVE CANNONS.",
+    "volume": 20
+  },
+  
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "Fuck you, that's how.",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "You ain't the queen vampire bitch here; I am.",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "Oui, fucking monsieur!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "We're gonna die... to the giant German Nazi vampire woman with a scythe. ",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "That screaming homelass man on the train was right!",
+    "volume": 15
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "Eyes for days?",
+    "volume": 10
+  },
+  {
+    "type": "speech",
+    "speaker": [ "vox_plushie_policegirl_alt" ],
+    "sound": "I don't wear a bra.",
+    "volume": 5
   },
 ]
