@@ -7,7 +7,7 @@
     "symbol": "!",
     "color": "light_gray",
     "name": { "str": "slumber sword" },
-    "description": "Behold! Though it may appear innocent at a glance, this is a magical tool that grants you the ability to bring an impromptu slumber party to any room you walk into. Alas, it is no longer as comfortable to rest your head onto in this form.",
+    "description": "Behold! Though it may appear innocent at a glance, this is a 'magical tool' that grants you the ability to bring an impromptu slumber party into any room you walk into. Alas, it is no longer as comfortable to rest your head onto in this form.",
     "price": "10 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton", "wood" ],
@@ -15,7 +15,7 @@
     "volume": "1500 ml",
     "bashing": 5,
     "to_hit": 1,
-    "flags": [ "SHEATH_SWORD" ],
+    "flags": [ "SHEATH_SWORD", "DURABLE_MELEE" ],
     "techniques": [ "WBLOCK_1" ],
     "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 2 ] ],
     "use_action": [ "INSPECT_ITEM" ]
