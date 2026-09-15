@@ -1,10 +1,16 @@
 [
   {
-    "id": "body_pillows",
+    "id": "huggables",
     "type": "item_group",
     "items": [
       [ "bodypillow_slime", 30 ],
-      [ "bodypillow_policegirl", 30]
+      [ "bodypillow_policegirl", 30],
+
+
+      [ "plushie_slime", 5 ],
+      [ "sword_plushie", 3],
+
+      [ "vox_plushie_chibi", 1 ]
     ]
   }
 ]
