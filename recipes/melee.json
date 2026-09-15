@@ -1,1 +1,13 @@
-
+[
+  {
+    "type": "recipe",
+    "result": "sword_slumber",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_BASHING",
+    "skill_used": "fabrication",
+    "skills_required": [ "melee", 1 ],
+    "time": "1 m",
+    "autolearn": true",
+    "components": [ [ [ "sword_pillow", 1 ] ], [ [ "sword_wood", 1 ] ] ]
+  }
+]
