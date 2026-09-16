@@ -42,7 +42,7 @@
     "symbol": "[",
     "color": "cyan",
     "name": { "str": "slime body pillow" },
-    "description": "A big, body-sized pillow with a print of a golden-eyed, light blue-haired anime girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing to hide the fact that neither sets of \"tools\" are \"equipped\".",
+    "description": "A body-sized pillow with a print of a golden-eyed, light blue-haired anime girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing to hide the fact that neither sets of \"tools\" are \"equipped\".",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -58,7 +58,7 @@
     "symbol": "[",
     "color": "yellow",
     "name": { "str": "police girl body pillow" },
-    "description": "A big, body-sized pillow with a print of a rather well-developed anime girl. She is blue-eyed and blonde-haired, wearing a foreign-styled yellow police uniform, complete with a pencil skirt and white thigh highs. On the back of the pillow, the same girl's eyes and uniform have both turned blood-red, her mouth open and her tongue out ready to receieve... something. ...Blood probably.",
+    "description": "A body-sized pillow with a print of a blue-eyed and blonde haired girl with impressive proportions. She wears a foreign-styled yellow police uniform, complete with pencil skirt and white thigh highs. On the back of the pillow, the same girl's eyes and uniform have both turned blood-red, her mouth open and her tongue out, ready to receieve... uh.... Blood, probably.",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -68,13 +68,13 @@
     "qualities": [ [ "SLEEP_AID", 4 ] ],
     "use_action": [ "INSPECT_ITEM" ]
   },
-    {
+  {
     "id": "bodypillow_director",
     "type": "GENERIC",
     "symbol": "[",
     "color": "magenta",
     "name": { "str": "operations director body pillow" },
-    "description": "A big, body-sized pillow with a print of a young woman with dark violet hair, brown eyes, and a nice figure posed with her hand on her hip. She wears a tight black sleeveless pencil dress and a red jacket, yet on the back of the pillow is posed rather provactively, trading everything but her jacket for a black swimsuit and a pistol as she looks at you disdainfully.",
+    "description": "A body-sized pillow with a print of a dark-violet-haired, woman with a nice figure. The front shows her in a tight black sleeveless dress and red jacket, hand on hip, while on the back she's posed provocatively, losing trading the dress for a loosely-worn swimsuit, pistol in hand, as she gives you a judging look.",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -85,14 +85,15 @@
     "use_action": [ "INSPECT_ITEM" ]
   },
     
+
   
-    {
+  {
     "id": "bodypillow_janitor",
     "type": "GENERIC",
     "symbol": "[",
     "color": "dark_gray",
     "name": { "str": "shabby janitor body pillow" },
-    "description": "A big, body-sized pillow with a print of a... a janitor. He's an older gentleman, and judging by the questionable magazine in his hand, doesn't seem very reputable. ...Are you sure you even want to see what's on the back?",
+    "description": "A body-sized pillow with a print of a... a janitor. He's an older gentleman, and judging by the questionable magazine in his hand, doesn't seem very reputable. ...Are you sure you even want to see what's on the back?",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -124,7 +125,7 @@
     "symbol": "[",
     "color": "light_gray",
     "name": { "str": "stealthy mercenary body pillow" },
-    "description": "A big, body-sized pillow with a print of a grizzled, silver-haired mercenary dressed in a skin-tight sneaking suit. You can't help but feel that he doesn't look very solid. That is, until you it around and find a much younger, yet nuder, and undoubtedly far more 'solid' mercenary greeting you as he crawls out from the underside of a carboard box.",
+    "description": "A body-sized pillow with a print of a grizzled, silver-haired mercenary dressed in a skin-tight sneaking suit. You can't help but feel that he doesn't look very solid. That is, until you it around and find a much younger, yet nuder, and undoubtedly far more 'solid' mercenary greeting you as he crawls out from the underside of a carboard box.",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
