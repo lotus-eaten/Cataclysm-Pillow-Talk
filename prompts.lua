@@ -16,6 +16,7 @@ return {
     "The fabric is smooth to the touch, with a little bit of give when you squeeze it.",
     "A few swings confirms, to your surprise, a surprising stiffness to. The tell-tale floppy nature of a pillow blade is nowhere to be seen. *Swish, swish, stab!*"
   },
+  
 -- Anime Bodypillows
   bodypillow_director ={
   },
@@ -27,9 +28,11 @@ return {
   },
   bodypillow_slime ={
   },
+  
 -- Non-Anime Bodypillows
   bodypillow_janitor = {
   },
+  
 -- Meme Bodypillows or Other
   bodypillow_testudine = {
     "NO NO NO NO NO. WAIT WAIT WAIT WAIT WAIT.",
