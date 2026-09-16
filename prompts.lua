@@ -31,3 +31,4 @@ return {
     "After looking the character depicted on the pillow up and and down, you ask yourself. /"Would being put in a hold by her really be all that bad?\"",
     "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this is a psychological hazard.",
   }
+}
