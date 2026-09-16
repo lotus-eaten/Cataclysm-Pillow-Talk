@@ -27,7 +27,7 @@ return {
 
   bodypillow_policegirl = {
     "She gives the impression of someone who might love cannons.",
-    "Despite never in your life having seen a law enforcement uniform quite like it, you know in your heart that she must be a police girl.",
+    "Despite never in your life having seen a law enforcement uniform quite like it, you know in your heart that she's a police girl.",
     "After looking the character depicted on the pillow up and and down, you ask yourself. 'Would being put in a hold by her really be all that bad?'",
     "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this is a psychological hazard.",
   }
