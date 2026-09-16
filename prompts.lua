@@ -23,4 +23,11 @@ return {
     "Your fingers run over the plushie's surface. Soft and fuzzy on the outside, but pressing down reveals an unyielding core. A blunt force weapon disguised as a cozy toy.",
     "The fabric remains smooth to the touch, but squeezing it yields only firmness. Trying to lay your head on this would be uncomfortable, but nobody ever said a sword by your bedside is for resting your head on",
     "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights. A good strike could send an opponent straight into REM sleep.*"
+  },
+
+  bodypillow_policegirl = {
+    "She gives the impression of someone who might love cannons.",
+    "Despite never in your life having seen a law enforcement uniform quite like it, you know in your heart that she must be a police girl.",
+    "After looking the character depicted on the pillow up and and down, you ask yourself. /"Would being put in a hold by her really be all that bad?\"",
+    "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this is a psychological hazard.",
   }
