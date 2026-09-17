@@ -13,8 +13,6 @@ Police Girl - Police Girl (Hellsing)
 
 Operations Director - Misato Katsuragi (Neon Genesis)
 
-Spider Body Pillow - 
-
 ### Meme Bodypillows
 Shabby Janitor - Scruffy (Futurama)
 
