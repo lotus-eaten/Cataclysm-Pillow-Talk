@@ -1,7 +1,7 @@
 return {
 -- Plushies
   plushie_slime = {
-    "The plushie feels soft and pleasantly squishy in your hands.",
+    "The plushie feels soft and pleasantly squishy in your hands. Just hope it doesn't give you enough courage to queeze the real thing.",
     "The fabric is smooth to the touch, with a little bit of give when you squeeze it.",
     "You run your fingers over the plushie's surface. The material feels soft and fuzzy.",
     "The plushie is surprisingly springy. It quickly returns to its original shape after being squeezed.",
