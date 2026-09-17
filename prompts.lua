@@ -45,12 +45,12 @@ return {
   bodypillow_unsolid = {
   },
   sword_slumber = {
-    "With a bit of extra weight, you decide this is definitely better.", 
+    "Testing the blade's heft in your hand, you find its newfound weight much more satisfying...", 
     "Slipping the rigid blade into the plushie's sheathe is more fulfilling now that the sword has some weight to it. Hearing the velcro rip whenever you need to draw it is a little embarassing, though...",
-    "The blue eye on the sword has turned a sleepy shade of violet. A tawny tinge hues the crossguard. The blade beckons. Feed it.",
-    "The tassel wrapped around your wrist when you wield it is no longer a hallucination. ",
+    "The blue eye on the sword has turned a sleepy shade of violet. A tawny tinge hues the crossguard. ...The blade beckons. Feed it.",
+    "The tassel wrapping around your wrist when you wield it is no longer a hallucination. ",
     "Your fingers run over the plushie's surface. Soft and fuzzy on the outside, but pressing down reveals an unyielding core. A blunt force weapon disguised as a cozy toy.",
-    "The fabric remains smooth to the touch, but squeezing it yields only firmness. Trying to lay your head on this would be uncomfortable, but nobody ever said a sword by your bedside is for resting your head on",
-    "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights. A good strike could send an opponent straight into REM sleep.*"
+    "The fabric remains smooth to the touch, but squeezing it yields only firmness. Trying to lay your head on this would be uncomfortable, but nobody ever said keeping a sword by your bedside is for resting your head on",
+    "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights--A good whack could send an opponent straight into REM sleep.*"
   },
 }
