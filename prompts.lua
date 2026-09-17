@@ -9,10 +9,11 @@ return {
     "You squeeze the plushie for a moment.  It's soft, yielding, and oddly satisfying to hold."
   },
   sword_plushie = {
-    "It carries a solid, unmistakable heft now. Beneath the velvet fuzz lies the rigid spine of a blade", 
-    "*Shkriiiip!* Despite the prehensile nature of the tassel, the scabbard comes off as you pull stiff velcro hooks from soft loops. As if second nature, you place the blade within the scabbard. What terrific product quality!",
-    "You hallucinate the tassel trying to wrap around your wrist. What you don't hallucinate is the blue eye looking directly at you a moment after.",
-    "Your fingers run over the plushie's surface. Soft and fuzzy, and yet somehow it feels almost... durable.",
+    "Light, yet firm. Unfortunately, nothing can be done about the weight imbalance in this state. Still good for a pillow fight, though!", 
+    "*Shkriiiip!* *Shkriiiip!* Despite the prehensile appearance of the sword tassel gripping the scabbard, it's when you hear familiar sound of Velcro--stiff hooks tearing from soft loops--that the blade is released.",
+    "As if second nature, you test the make of the scabbard by pushing your new blade into it. Despite the plush material, the blade slides right in without resistance. What terrific product quality...",
+    "You hallucinate the tassel trying to wrap around your wrist. ...What you don't hallucinate is the blue eye looking directly at you a moment after.",
+    "Your fingers run over the plushie's surface. Soft and fuzzy, and yet somehow it feels almost... taut.",
     "The fabric is smooth to the touch, with a little bit of give when you squeeze it.",
     "A few swings confirms, to your surprise, a surprising stiffness to. The tell-tale floppy nature of a pillow blade is nowhere to be seen. *Swish, swish, stab!*"
   },
@@ -45,7 +46,7 @@ return {
   },
   sword_slumber = {
     "With a bit of extra weight, you decide this is definitely better.", 
-    "Slipping the wooden core into the plushie's sheathe is more fulfilling, now that the sword has some weight to it. Hearing the velcro rip whenever you need to draw it is a little embarassing, though...",
+    "Slipping the rigid blade into the plushie's sheathe is more fulfilling now that the sword has some weight to it. Hearing the velcro rip whenever you need to draw it is a little embarassing, though...",
     "The blue eye on the sword has turned a sleepy shade of violet. A tawny tinge hues the crossguard. The blade beckons. Feed it.",
     "The tassel wrapped around your wrist when you wield it is no longer a hallucination. ",
     "Your fingers run over the plushie's surface. Soft and fuzzy on the outside, but pressing down reveals an unyielding core. A blunt force weapon disguised as a cozy toy.",
