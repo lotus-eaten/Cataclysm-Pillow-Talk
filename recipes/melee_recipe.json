@@ -8,6 +8,6 @@
     "skills_required": [ "melee", 1 ],
     "time": "1 m",
     "autolearn": true,
-    "components": [ [ [ "sword_pillow", 1 ] ], [ [ "sword_wood", 1 ] ] ]
+    "components": [ [ [ "sword_plushie", 1 ] ], [ [ "sword_wood", 1 ] ] ]
   }
 ]
