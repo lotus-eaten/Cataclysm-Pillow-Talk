@@ -26,8 +26,8 @@ return {
   bodypillow_policegirl = {
     "She gives the impression of someone who might love cannons.",
     "Despite never in your life having seen a law enforcement uniform quite like it, you know in your heart that she's a police girl.",
-    "After looking the character depicted on the pillow up and and down, you ask yourself. 'Would being put in a hold by her really be all that bad?'",
-    "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this is a psychological hazard."
+    "After looking the character depicted on the pillow up and and down, you ask yourself: 'Would being put in a hold by her really be all that bad?'",
+    "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this may be a psychological hazard."
   },
   bodypillow_slime = {
     "On the front, she's already depicted in a suggestive pose, and all she seems to be wearing is a blue, fur-trimmed winter coat. She's giving you a look... Even the slime looks embarassed.",
