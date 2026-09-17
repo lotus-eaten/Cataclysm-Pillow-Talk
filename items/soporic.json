@@ -5,7 +5,7 @@
     "symbol": ",",
     "color": "cyan",
     "name": { "str": "slime plush" },
-    "description": "Far from the slimes you're used to, this plushie looks more like a giant, slightly flattened droplet of light blue gelatin. An expression of perfect relaxation and a cute pair of blushing dots adorn its jiggly royal figure. It takes only a glance to hear the words, \"I'm not a bad slime...!\"",
+    "description": "Far from the slimes you're used to, this marketable plushie looks more like a giant, slightly flattened droplet of light blue gelatin. An expression of perfect relaxation and a cute pair of blushing dots adorn its jiggly royal figure. It takes only a glance to hear the words, \"I'm not a bad slime...!\"",
     "price": "20 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -16,6 +16,22 @@
     "use_action": [ "INSPECT_ITEM" ]
     },
   {
+    "id": "plushie_skeleton",
+    "type": "GENERIC",
+    "symbol": ",",
+    "color": "cyan",
+    "name": { "str": "skeletal plush" },
+    "description": "Far from the skeletal undead you're used to, this is a marketable plushe of a skeleton dressed in a black and purple robe, the epitome of regality. He carries with him an air of death--instant and final. You find no mercy, only infinite wisdom and absolute strategy in those two red flame eyes.",
+    "price": "40 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "800 g",
+    "volume": "1 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+    },
+   {
     "id": "sword_plushie",
     "type": "GENERIC",
     "symbol": "!",
@@ -33,7 +49,6 @@
     "qualities": [ [ "BUTCHER", -50, "SLEEP_AID", 3 ] ],
     "use_action": [ "INSPECT_ITEM" ]
   },
-
 
   
   {
