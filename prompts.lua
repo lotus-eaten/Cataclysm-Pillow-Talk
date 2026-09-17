@@ -19,7 +19,9 @@ return {
   },
   
 -- Anime Bodypillows
-  bodypillow_director ={
+  bodypillow_director = {
+    "You look at the back of the pillow. She looks back at you. You decide that you're probably the one who should be embarrassed.",
+    "Seeing her wielding a pistol  while dolled up in a swimsuit reminds you of a time when being scantily clad with only a firearm to bear wasn't such an unusual concept.",
   },
   bodypillow_policegirl = {
     "She gives the impression of someone who might love cannons.",
@@ -27,7 +29,11 @@ return {
     "After looking the character depicted on the pillow up and and down, you ask yourself. 'Would being put in a hold by her really be all that bad?'",
     "A quick peek at the degeneracy depicted on the back of the pillow is enough to convince you that this is a psychological hazard."
   },
-  bodypillow_slime ={
+  bodypillow_slime = {
+    "On the front, she's already depicted in a suggestive pose, and all she seems to be wearing is a blue, fur-trimmed winter coat. She's giving you a look... Even the slime looks embarassed.",
+    "There's a luster to the character's hair that gives you a pang of jealousy in this cruel, abandoned world. Wouldn't a shower be so nice...?",
+    "The character has an oddly friendly expression. You get the feeling she'd be easy to get along with.",
+    "The little blue slime on the front is almost cute enough to make you forget that doing the same thing in real life might leave you with melted fingers.",
   },
   
 -- Non-Anime Bodypillows
@@ -51,6 +57,6 @@ return {
     "The tassel wrapping around your wrist when you wield it is no longer a hallucination. ",
     "Your fingers run over the plushie's surface. Soft and fuzzy on the outside, but pressing down reveals an unyielding core. A blunt force weapon disguised as a cozy toy.",
     "The fabric remains smooth to the touch, but squeezing it yields only firmness. Trying to lay your head on this would be uncomfortable, but nobody ever said keeping a sword by your bedside is for resting your head on",
-    "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights--A good whack could send an opponent straight into REM sleep."
+    "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights--A good whack could send an opponent straight into REM sleep.*"
   },
 }
