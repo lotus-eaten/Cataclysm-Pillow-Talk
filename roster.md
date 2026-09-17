@@ -11,6 +11,8 @@ Police Girl - Police Girl (Hellsing)
 
 Operations Director - Misato Katsuragi (Neon Genesis)
 
+Spider Body Pillow - 
+
 ### Meme Bodypillows
 Shabby Janitor - Scruffy (Futurama)
 
@@ -34,3 +36,5 @@ Ice Lich - Darkness (Konosuba)
 Lady Crusader - Wiz (Konosuba)
 
 Blue Vocaloid - Hatsune Miku
+
+White Spider - Kumoko (So I'm a Spider, So What?)
