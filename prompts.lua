@@ -21,7 +21,7 @@ return {
 -- Anime Bodypillows
   bodypillow_director = {
     "You look at the back of the pillow. She looks back at you. You decide that you're probably the one who should be embarrassed.",
-    "Seeing her wielding a pistol  while dolled up in a swimsuit reminds you of a time when being scantily clad with only a firearm to bear wasn't such an unusual concept.",
+    "Seeing her wielding a pistol while dolled up in a swimsuit reminds you of a time when being scantily clad with only a firearm to bear wasn't such an unusual concept.",
   },
   bodypillow_policegirl = {
     "She gives the impression of someone who might love cannons.",
