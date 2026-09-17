@@ -51,6 +51,6 @@ return {
     "The tassel wrapping around your wrist when you wield it is no longer a hallucination. ",
     "Your fingers run over the plushie's surface. Soft and fuzzy on the outside, but pressing down reveals an unyielding core. A blunt force weapon disguised as a cozy toy.",
     "The fabric remains smooth to the touch, but squeezing it yields only firmness. Trying to lay your head on this would be uncomfortable, but nobody ever said keeping a sword by your bedside is for resting your head on",
-    "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights--A good whack could send an opponent straight into REM sleep.*"
+    "A few swings cut through the air with a heavy, satisfying *whoosh*. This is no longer meant for mere pillow fights--A good whack could send an opponent straight into REM sleep."
   },
 }
