@@ -14,10 +14,10 @@ Turtle Sorcerer Queen - Bowsette/Bowser (Mario)
 Stealthy Mercenary - Solid Snake (MGS)
 
 # Possible or Planned
-## Plushies
+### Plushies
 Skeletal Sorceror King - Ainz Ooal Gown (Overlord)
 
-## Bodypillows
+### Bodypillows
 Fierce Mech Pilot - Asuka Langley Soryu (Neon Genesis)
 Doll Mech Pilot - Rei Ayanami (^)
 Succubus Fighter - Morrigan Aensland (Darkstalkers)
