@@ -7,7 +7,7 @@ Sword - Honedge-inspired (Pokemon)
 Skeleton - Ainz Ooal Gown (Overlord)
 
 ### Bodypillows
-Slime - Rimuru (Tensei Shitara)
+Slime Demon Lord - Rimuru (Tensei Shitara)
 
 Police Girl - Police Girl (Hellsing)
 
