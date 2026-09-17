@@ -38,13 +38,14 @@ return {
   
 -- Non-Anime Bodypillows
   bodypillow_janitor = {
+    "He's a scruffy looking guy.",
   },
   
 -- Meme Bodypillows or Other
   bodypillow_testudine = {
     "NO NO NO NO NO. WAIT WAIT WAIT WAIT WAIT.",
     "A SPEEDO?!",
-    "On the back, he's splayed out in all his glory. The thong swimwear hooked over his brazen yellow shoulders clutch the fabric tightly against 'it'. Too tight."
+    "On the back, he's splayed out in all his glory. The thong swimwear hooked over his brazen yellow shoulders clutch the fabric tightly against 'it'. Too tight.",
     "She's beautiful.",
     "Oh god, it's spilling out. Did it just wink at you?",
     "That smile. That damned smile."
