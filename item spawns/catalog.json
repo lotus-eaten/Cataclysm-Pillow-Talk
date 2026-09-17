@@ -4,16 +4,20 @@
     "type": "item_group",
     "items": [
       [ "bodypillow_slime", 30 ],
-      [ "bodypillow_policegirl", 30],
-      [ "bodypillow_director", 25],
+      [ "bodypillow_policegirl", 30 ],
+      [ "bodypillow_director", 25 ],
+
+      [ "bodypillow_janitor", 2 ],
+      [ "bodypillow_testudine", 2 ],
+      [ "bodypillow_unsolid", 3 ],
 
 
       [ "plushie_slime", 5 ],
-      [ "sword_plushie", 3],
+      [ "sword_plushie", 3 ],
 
       [ "vox_plushie_pink", 1 ],
       [ "vox_plushie_policegirl", 3 ],
-      [ "vox_plushie_policegirl_alt", 1]
+      [ "vox_plushie_policegirl_alt", 1 ]
     ]
   }
 ]
