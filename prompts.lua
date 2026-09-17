@@ -10,7 +10,7 @@ return {
   },
   sword_plushie = {
     "Light, yet firm. Unfortunately, nothing can be done about the weight imbalance in this state. Still good for a pillow fight, though!", 
-    "*Shkriiiip!* Despite the prehensile appearance of the sword tassel gripping the scabbard, it's when you hear familiar sound of Velcro--stiff hooks tearing from soft loops--that the blade is released.",
+    "*Shkriiiip!* Despite the prehensile appearance of the sword tassel gripping the scabbard, it's the sound of two velcro patches tearing that tells you the blade is released.",
     "As if second nature, you test the make of the scabbard by pushing your new blade into it. Despite the plush material, the blade slides right in without resistance. What terrific product quality...",
     "You hallucinate the tassel trying to wrap around your wrist. ...What you don't hallucinate is the blue eye looking directly at you a moment after.",
     "Your fingers run over the plushie's surface. Soft and fuzzy, and yet somehow it feels almost... taut.",
