@@ -4,6 +4,8 @@ Slime - Rimuru, Slime Form (Tensei Shitara)
 
 Sword - Honedge-inspired (Pokemon)
 
+Skeletal Sorceror King - Ainz Ooal Gown (Overlord)
+
 ### Bodypillows
 Slime - Rimuru (Tensei Shitara)
 
@@ -22,7 +24,7 @@ Stealthy Mercenary - Solid Snake (MGS)
 
 # Possible or Planned
 ### Plushies
-Skeletal Sorceror King - Ainz Ooal Gown (Overlord)
+...
 
 ### Bodypillows
 Fierce Mech Pilot - Asuka Langley Soryu (Neon Genesis)
