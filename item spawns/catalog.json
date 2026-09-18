@@ -5,7 +5,9 @@
     "items": [
       [ "bodypillow_slime", 30 ],
       [ "bodypillow_policegirl", 30 ],
-      [ "bodypillow_director", 25 ],
+      [ "bodypillow_director", 20 ],
+      [ "bodypillow_dollmech", 30],
+      [ "bodypillow_fierymech", 30],
 
       [ "bodypillow_janitor", 2 ],
       [ "bodypillow_testudine", 2 ],
