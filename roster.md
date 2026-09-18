@@ -13,6 +13,10 @@ Police Girl - Police Girl (Hellsing)
 
 Operations Director - Misato Katsuragi (Neon Genesis)
 
+Fiery Mech Pilot - Asuka Langley Soryu (^)
+
+Doll Mech Pilot - Rei Ayanami (^)
+
 ### Meme Bodypillows
 Shabby Janitor - Scruffy (Futurama)
 
