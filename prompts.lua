@@ -27,7 +27,17 @@ return {
   bodypillow_director = {
     "You look at the back of the pillow. She looks back at you. You decide that you're probably the one who should be embarrassed.",
     "Seeing her wielding a pistol while dolled up in a swimsuit reminds you of a time when being scantily clad with only a firearm to bear wasn't such an unusual concept.",
+    "Looking over the entirety of the pillow, you find no text written of any kind. It's actually quite spotless. Somehow, this feels like a declaration of superiority on its own.",
+    
   },
+  bodypillow_dollmech = {
+    "At the very bottom corner of the back of the pillow, you see inscribed a haiku declaring superiority over 'THAT ANNOYING BRAT'. Some wars do not end with the world.",
+  },
+  bodypillow_fierymech = {
+    "At the top ridge of the front of the pillow, you see inscribed a haiku exclaiming superiority over 'THAT UNFEELING DOLL'. Some wars do not end with the world.",
+
+  },
+  
   bodypillow_policegirl = {
     "She gives the impression of someone who might love cannons.",
     "Despite never in your life having seen a law enforcement uniform quite like it, you know in your heart that she's a police girl.",
