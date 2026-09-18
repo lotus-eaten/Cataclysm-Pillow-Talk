@@ -19,7 +19,7 @@
     "id": "plushie_skeleton",
     "type": "GENERIC",
     "symbol": ",",
-    "color": "red",
+    "color": "magenta",
     "name": { "str": "skeletal plush" },
     "description": "Far from the skeletal undead you're used to, this is a marketable plush of a skeleton dressed in a black and purple robe, the epitome of regality. He carries with him an air of death--instant and final. You find no mercy, only infinite wisdom and absolute strategy in those two red flame eyes.",
     "price": "40 USD",
@@ -51,13 +51,14 @@
   },
 
   
+  
   {
     "id": "bodypillow_slime",
     "type": "GENERIC",
     "symbol": "[",
     "color": "cyan",
     "name": { "str": "slime demon lord body pillow" },
-    "description": "A body-sized pillow with a print of a golden-eyed, light blue-haired anime girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing to hide the fact that neither sets of \"tools\" are \"equipped\".",
+    "description": "A body-sized pillow with a print of a golden-eyed, light blue-haired girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing to hide the fact that neither sets of \"tools\" are \"equipped\".",
     "price": "60 USD",
     "price_postapoc": "1 USD",
     "material": [ "cotton" ],
@@ -99,8 +100,56 @@
     "qualities": [ [ "SLEEP_AID", 4 ] ],
     "use_action": [ "INSPECT_ITEM" ]
   },
-    
+  {
+    "id": "bodypillow_slime",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "cyan",
+    "name": { "str": "slime demon lord body pillow" },
+    "description": "A body-sized pillow with a print of a golden-eyed, light blue-haired anime girl holding a small blue slime above her head, and on the back... Nevermind. Even with there being slime absolutely everywhere, there's nothing to hide the fact that neither sets of \"tools\" are \"equipped\".",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "1750g",
+    "volume": "50 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },
+  {
+    "id": "bodypillow_dollmech",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "light_blue",
+    "name": { "str": "doll mech pilot body pillow" },
+    "description": "A body-sized pillow with a print of a doll-like girl with blue hair and red eyes. On the front, she's laying on her side while wearing a white skintight pilot suit, a forlorn gaze. On the back, though subtle, there's a hint of demureness to her expression as she tries to protect her modesty--despite wearing only a white dress shirt.",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "1750g",
+    "volume": "50 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },
+  {
+    "id": "bodypillow_fierymech",
+    "type": "GENERIC",
+    "symbol": "[",
+    "color": "red",
+    "name": { "str": "fiery mech pilot body pillow" },
+    "description": "A body-sized pillow with a print of fiery redhead girl with blue eyes. On the front, the girl seems content as she looks into the distance, wearing a red skintight pilot suit and a maroon jacket. On the back, she wears only the same jacket and a pair of panties, brazenly glaring at you with hands on her hips as if this was somehow your fault.",
+    "price": "60 USD",
+    "price_postapoc": "1 USD",
+    "material": [ "cotton" ],
+    "weight": "1750g",
+    "volume": "50 L",
+    "category": "scrap_fabric",
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
+    "use_action": [ "INSPECT_ITEM" ]
+  },    
 
+  
   
   {
     "id": "bodypillow_janitor",
